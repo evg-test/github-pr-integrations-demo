@@ -11,6 +11,8 @@ public class Greeting {
 
     public String content2;
 
+    private String content3;
+
     public Greeting(long id, String content) {
         this.id = id;
         this.content = content;
